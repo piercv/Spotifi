@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Raul Camarena\\Desktop\\Practicar PMP\\20181107\\PM-2018-2\\Semana 09\\Spotifi\\Spotifi.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
